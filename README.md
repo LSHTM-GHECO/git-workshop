@@ -2,7 +2,7 @@
 1. Clone this repo:
 
 ```
-git clone https://github.com/LSHTM-GHECO/git-workshop.git
+git clone git@github.com:LSHTM-GHECO/git-workshop.git
 ```
 
 2. Create your own branch (with any name):
